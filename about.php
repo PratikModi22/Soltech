@@ -15,10 +15,10 @@
 
 <?php include'navbar.php'; ?>
 
-
+<br><br><br>
 
     <!-- about uss  -->
-<section class="bg-gray-300 dark:bg-gray-900">
+<section class="mt-52 bg-gray-300 dark:bg-gray-900">
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">About US</h2>
