@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+<!-- version 3 -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us</title>
@@ -18,8 +20,8 @@
 <br><br><br>
 
     <!-- about uss  -->
-<section class="mt-52 bg-gray-300 dark:bg-gray-900">
-    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+<section class="mt-52 bg-gray-300 dark:bg-gray-900  ">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl   lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">About US</h2>
             <p class="mb-4"> Welcome to Soltech, a leading manufacturer and supplier of high-quality silicon rubber parts and grommets. With years of expertise in the industry, we specialize in providing durable and precision-engineered solutions tailored to meet the diverse needs of our customers across various sectors, including automotive, electronics, construction, and industrial applications. <br> At Soltech, we are committed to producing top-tier products that ensure reliability, performance, and longevity. Our dedicated team of experts uses state-of-the-art technology and premium raw materials to manufacture silicon rubber parts and grommets that meet global quality standards. Whether it's for sealing, insulation, or protection, our products are designed to provide superior functionality and efficiency.</p>
@@ -45,10 +47,89 @@
     </div>
   </section>
 
-  <?php include 'footer.php';?>
+<section >
+
+<div>
+
+
+
+
+</div>
+
+</section>
+
+<section class="bg-gray-300 dark:bg-gray-900">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+  
+        <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
+        <h1 class="text-4xl font-bold text-gray-800 mb-8">OUR Strengths</h1>
+    <ul class="list-disc ml-8 gap-5">
+        <li class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span class="ml-2">Strict quality control according to international standards</span>
+        </li>
+        <li class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span class="ml-2">Cost effective, fast erection & dismantling</span>
+        </li>
+        <li class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span class="ml-2">Highly skilled workforce with extensive experience</span>
+        </li>
+        <li class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span class="ml-2">Innovative solutions tailored to client needs</span>
+        </li>
+
+
+        <li class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span class="ml-2">Strict quality control according to international standards</span>
+        </li>
+        <li class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span class="ml-2">Cost effective, fast erection & dismantling</span>
+        </li>
+        <li class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span class="ml-2">Highly skilled workforce with extensive experience</span>
+        </li>
+        <li class="flex items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <span class="ml-2">Innovative solutions tailored to client needs</span>
+        </li>
+    </ul>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mt-8">
+        <img class="w-full rounded-lg" src="https://www.theladders.com/wp-content/uploads/manager-office-190723.jpg" alt="office content 1">
+        <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpiou6pSi665WJcRZ3XJrpH3w8qggY0AKoNQ&s" alt="office content 2">
+        <img class="w-full rounded-lg" src="https://www.theladders.com/wp-content/uploads/manager-office-190723.jpg" alt="office content 1">
+
+    </div>
+        
+    </div>
+  </section>
+  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
 
-
+  <?php include 'footer.php';?>
     
 </body>
 </html>
